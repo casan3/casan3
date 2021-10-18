@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Carlos
 
-Experienced Software Developer with a demonstrated history of working in the Insurance services industry. Skilled in Javascript, HTML, SQL, PHP, Firebase, Angular and Flutter framework.
 
+
+## About me
+Experienced Software Developer with a demonstrated history of working in the Insurance services industry. Skilled in Javascript, HTML, SQL, PHP, Firebase, Angular and Flutter framework. Enthusiast investor. I enjoy learning new technologies and put them into practice. Currently learning about the Blockchain world and Crypto currency investment.
 
 ## Tecnologies I use:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
