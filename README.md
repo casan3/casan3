@@ -1,4 +1,9 @@
 # Hi there 👋 I'm Carlos
+![background_name](https://user-images.githubusercontent.com/43480967/137841960-a84dddcc-508e-4141-a871-bc55a6f6b59e.png)
+
+## Find me on 🌎
+[![linkedin](https://user-images.githubusercontent.com/43480967/137839277-5e995d18-95e9-4066-a86d-49c0f6b456c4.png)](https://www.linkedin.com/in/casan3/)
+[![twitter](https://user-images.githubusercontent.com/43480967/137840362-a8726400-a5c9-46da-94a8-884c52be88d8.png)](https://twitter.com/casanchezg3)
 
 
 
